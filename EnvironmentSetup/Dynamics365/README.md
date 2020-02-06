@@ -1,4 +1,6 @@
-# Dynamics 365 Environment setup
+# Dynamics 365 Environment setup : 
+* Leverage this tools to Bulk create Dynamics 365 environments. 
+* This tools also can be modifed to use it in AzureDevOps pipline.
 
 ## Pre-requisites :
   *	[Install Management API](https://www.powershellgallery.com/packages/Microsoft.Xrm.OnlineManagementAPI/1.1.0.9060)
