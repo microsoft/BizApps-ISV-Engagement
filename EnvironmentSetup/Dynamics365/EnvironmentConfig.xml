@@ -2,7 +2,7 @@
 <EnvironmentConfig>
     <Environment>
         <Dynammics365Instance>
-            <OrganizationFriendlyName>OpenHackUserInstance</OrganizationFriendlyName>
+            <OrganizationFriendlyName>TrialUserInstance</OrganizationFriendlyName>
             <!-- <DefaultAppsTobeInstalled>D365_Sales,D365_CustomerService,D365_FieldService,D365_ProjectServiceAutomation</DefaultAppsTobeInstalled> -->
             <DefaultAppsTobeInstalled></DefaultAppsTobeInstalled> -->
             <SuffixStart>102</SuffixStart>
@@ -10,9 +10,11 @@
             <TimeoutInMinutes>2000</TimeoutInMinutes>
             <InstanceType>Sandbox</InstanceType>
             <CopyType>FullCopy</CopyType>
+            <!-- use appropiate service URL, please refer https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/online-management-api/get-started-online-management-api#service-url-->
             <InstanceHostByRegion>https://admin.services.crm.dynamics.com/</InstanceHostByRegion>
-            <SourceInstanceOrganizationId>b8d8f929-5fe4-4f10-9d38-54012eb3273c</SourceInstanceOrganizationId>
-            <TenantId>010141df-8f7b-4d56-90f1-a8fa1f21d772</TenantId>
+            <!-- Use this only when you want to copy the instance-->
+            <SourceInstanceOrganizationId></SourceInstanceOrganizationId>
+            <TenantId></TenantId>
         </Dynammics365Instance>
     </Environment>
 </EnvironmentConfig>
