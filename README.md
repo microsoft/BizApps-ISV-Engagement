@@ -1,11 +1,16 @@
-# BizApps ISV Engagement : In this repository, We would be providing step by step technical solutions (Sample Code, Hands-on-labs, decks) for varous features of Dynamics 365 and Power Platform.
+#Dynamics 365 & Power platform
+Dynamics 365 is a set of intelligent Business Applications that help customers accelerate digital transformation across Sales, Marketing, Service, Finance, Operations, and Talent. Leverage this Github repository to provide technical information and resources pertaining to Dynamics 365.
+
+#BizApps ISV Engagement :
+BizApps ISV Engagement Team would help ISVs, SIs, Partners to Envision/Develop/Build/Publish apps in [AppSource](https://appsource.microsoft.com/en-US/) using Dynamics 365 & Power Platform publish.
+
+In this repository, We would provide step by step technical solutions (Sample Code, Hands-on-labs, decks) for various features of Dynamics 365 and Power Platform.
 
 **Agenda**
 
 | Topics# | Title |
 | ---     | ---   |
 | 1       | Quickly Create/Delete Dynamics 365 Environments using powershell - [Dynamics 365 Environment Setup](https://github.com/microsoft/BizApps-ISV-Engagement/tree/master/EnvironmentSetup/Dynamics365) |
-
 
 # Contributing
 
