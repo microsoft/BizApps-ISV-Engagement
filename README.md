@@ -1,5 +1,5 @@
 # Dynamics 365 & Power platform
-Dynamics 365 is a set of intelligent Business Applications that help customers accelerate digital transformation across Sales, Marketing, Service, Finance, Operations, and Talent. Leverage this Github repository to provide technical information and resources pertaining to Dynamics 365.
+Dynamics 365 is a set of intelligent Business Applications that help customers accelerate digital transformation across Sales, Marketing, Service, Finance, Operations, and Talent. Leverage this Github repository to avail technical information and resources pertaining to Dynamics 365.
 
 # BizApps ISV Engagement Team:
 BizApps ISV Engagement Team would help ISVs, SIs, Partners to Envision/Develop/Build/Publish apps in [AppSource](https://appsource.microsoft.com/en-US/) using Dynamics 365 & Power Platform publish.
