@@ -1,3 +1,11 @@
+# BizApps ISV Engagement : In this repository, We would be providing step by step technical solutions (Sample Code, Hands-on-labs, decks) for varous features of Dynamics 365 and Power Platform.
+
+**Agenda**
+
+| Topics# | Title |
+| ---     | ---   |
+| 1       | Quickly Create/Delete Dynamics 365 Environments using powershell - [Dynamics 365 Environment Setup](https://github.com/microsoft/BizApps-ISV-Engagement/tree/master/EnvironmentSetup/Dynamics365) |
+
 
 # Contributing
 
@@ -12,3 +20,5 @@ provided by the bot. You will only need to do this once across all repos using o
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+Copyright (c) Microsoft Corporation. All rights reserved.
