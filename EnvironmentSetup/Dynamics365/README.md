@@ -28,4 +28,4 @@
   * Open Powershell and locate navigate to "DeleteEnvironment-For-Dynamics365.ps1"
   * Run DeleteEnvironment-For-Dynamics365.ps1
 
-![](https://github.com/microsoft/BizApps-ISV-Engagement/blob/master/Images/EnvironmentSetup/Run-Create-Dynamics365-Environment.png)  
+![](https://github.com/microsoft/BizApps-ISV-Engagement/blob/master/Images/EnvironmentSetup/Run-Delete-Dynamics365-Environment.png)
