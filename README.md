@@ -11,6 +11,7 @@ In this repository, We would be providing step by step technical solutions (Samp
 | Topics# | Title |
 | ---     | ---   |
 | 1       | Quickly Create/Delete Dynamics 365 Environments using powershell - [Dynamics 365 Environment Setup](https://github.com/microsoft/BizApps-ISV-Engagement/tree/master/EnvironmentSetup/Dynamics365) |
+| 2       | Quickly Build ASP.NET Core WebApplication to connect Common Data Service WebAPI using Server-To-Server Authentication [ASP.Net Core WebApp connects CDS WebAPI Sample](https://github.com/microsoft/BizApps-ISV-Engagement/tree/master/CommonDataServiceWebAPIIntegration) |
 
 # Contributing
 
