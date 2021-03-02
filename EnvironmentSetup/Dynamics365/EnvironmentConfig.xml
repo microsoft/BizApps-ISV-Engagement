@@ -4,7 +4,7 @@
         <Dynammics365Instance>
             <OrganizationFriendlyName>TrialUserInstance</OrganizationFriendlyName>
             <!-- <DefaultAppsTobeInstalled>D365_Sales,D365_CustomerService,D365_FieldService,D365_ProjectServiceAutomation</DefaultAppsTobeInstalled> -->
-            <DefaultAppsTobeInstalled></DefaultAppsTobeInstalled> -->
+            <DefaultAppsTobeInstalled></DefaultAppsTobeInstalled>
             <SuffixStart>102</SuffixStart>
             <SuffixEnd>102</SuffixEnd>
             <TimeoutInMinutes>2000</TimeoutInMinutes>
